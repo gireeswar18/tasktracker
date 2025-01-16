@@ -25,4 +25,3 @@
 - Config
 
 ## Preview
-<video controls src="Tasktracker-demo.mp4" title="Title"></video>
